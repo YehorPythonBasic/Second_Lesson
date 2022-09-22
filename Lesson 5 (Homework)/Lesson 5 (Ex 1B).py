@@ -1,3 +1,4 @@
+# Ввод высоты
 height = int(input('Введите высоту фигуры: '))
 
 for h in range(height):
