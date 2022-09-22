@@ -1,6 +1,5 @@
 # Ввод высоты
-height = 7
-# int(input('Введите высоту фигуры: '))
+height = int(input('Введите высоту фигуры: '))
 # Верхний треугольник
 for h in range(height):
     for i in range(h, height - 1):
