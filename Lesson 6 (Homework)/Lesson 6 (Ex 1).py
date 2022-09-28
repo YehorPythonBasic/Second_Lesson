@@ -10,3 +10,4 @@ for i in my_list:
     if i > 100:
         # Вывод значений больше 100
         print(i, end='  ')
+print()
