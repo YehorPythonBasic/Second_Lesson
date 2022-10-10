@@ -5,4 +5,4 @@ from function_find_a import find_first_a
 my_list = find_first_a(['apple', 'top', 'check', 'able', 'air', 'test'])
 
 # Вывод
-print(p)
+print(my_list)
