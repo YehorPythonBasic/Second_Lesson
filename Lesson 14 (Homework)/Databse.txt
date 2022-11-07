@@ -1,0 +1,38 @@
+Bicycle
+state_number: AA123
+wheels: 2
+motor_accuracy: None
+max_speed: 80
+size: Medium
+
+Motorcycle
+state_number: AA321
+wheels: 2
+motor_accuracy: 180
+max_speed: 200
+size: Medium
+type: Sport
+
+Car
+state_number: AA321
+wheels: 4
+motor_accuracy: 621
+max_speed: 280
+doors: 4
+brand: BMW Alpina B8
+
+Bus
+state_number: AA666
+wheels: 4
+motor_accuracy: 150
+max_speed: 80
+purpose: School
+
+Truck
+state_number: AA666
+wheels: 4
+motor_accuracy: 150
+max_speed: 80
+purpose: Buildings
+max weight lifting(kg): 800
+
